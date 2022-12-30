@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @L3arnH0wT0H4ck
+- 👀 I’m highly passionate about Programming (kindly regards to Python), systems, networking, cryptography, database. In short i'm passionated by cybersecurity😁.
+- 🌱 I’m currently learning cybersecurity and management.
+- 💞️ I have created this modest channel to give back what i have learned from others.
+- 📫 For any collaboration or suggestion you can hit me up by simply typing "Olivier Konaté" in your linkedin search box.
